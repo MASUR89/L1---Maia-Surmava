@@ -75,8 +75,3 @@ for (let repeat = 0; repeat < 2; repeat++) {
 }
 
 console.log(result);
-
-
-
-
-
